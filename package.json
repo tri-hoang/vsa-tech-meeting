@@ -1,0 +1,23 @@
+{
+  "name": "vsa-tech-meeting",
+  "version": "1.0.0",
+  "description": "Update Update2 Update3 Update in branch",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tri-hoang/vsa-tech-meeting.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tri-hoang/vsa-tech-meeting/issues"
+  },
+  "homepage": "https://github.com/tri-hoang/vsa-tech-meeting#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
